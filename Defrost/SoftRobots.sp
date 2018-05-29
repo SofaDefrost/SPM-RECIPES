@@ -1,7 +1,7 @@
 {
 	"package_name" : "SoftRobots",
 	"package_dependencies" : ["STLIB"],
-	"package_type" : "binary",
+	"package_type" : "source",
 	"ssh-url" : "git@github.com:SofaDefrost/SoftRobots.git",
 	"http-url" : "https://github.com/SofaDefrost/SoftRobots.git",
 	"description" : "A plugin dedicated to SoftRobotics.",

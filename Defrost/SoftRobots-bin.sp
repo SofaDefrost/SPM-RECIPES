@@ -1,8 +1,8 @@
 {
-	"package_name" : "SoftRobots-bin-17_12",
+	"package_name" : "SoftRobots-bin",
 	"package_dependencies" : ["SoftRobots-bin-17_12"],
 	"package_type" : "meta",
-	"description" : "A plugin dedicated to SoftRobotics.",
+	"description" : "Install the latest version of the SoftRobotics as binary.",
 	"components" : [],
 	"prefabs" : []
 }
