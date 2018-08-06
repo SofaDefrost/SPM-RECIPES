@@ -7,7 +7,7 @@
 	"description" : "A plugin that compute reduced model to accelerate simulation. More documentation is available at: https://github.com/SofaDefrost/ModelOrderReduction/",
 	"components" : ["ModelOrderReductionMapping", "MatrixLoader", "HyperReducedForceField",
 	                "HyperReducedRestShapeSpringsForceField", "HyperReducedTetrahedronFEMForceField",
-	                "HyperReducedTetrahedronHyperelasticityFEMForceField", "HyperReducedTriangleFEMForceField"
+	                "HyperReducedTetrahedronHyperelasticityFEMForceField", "HyperReducedTriangleFEMForceField",
 	                "MechanicalMatrixMapperMOR"],
 	"prefabs" : []
 }
