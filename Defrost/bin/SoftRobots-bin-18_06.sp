@@ -1,5 +1,5 @@
 {
-	"package_name" : "SoftRobots-bin-18_06.sp",
+	"package_name" : "SoftRobots-bin-18_06",
 	"package_dependencies" : ["Sofa-bin-18_06"],
 	"package_type" : "binary",
 	"http-url" : "https://github.com/SofaDefrost/SoftRobots/releases/download/18.06/SoftRobots-bin-18_06.zip",
