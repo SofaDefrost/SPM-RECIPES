@@ -1,5 +1,5 @@
 {
-	"package_name" : "SoftPython3",
+	"package_name" : "SofaPython3",
 	"package_dependencies" : [],
 	"package_type" : "source",
 	"ssh-url" : "git@github.com:sofa-framework/SofaPython3.git",
