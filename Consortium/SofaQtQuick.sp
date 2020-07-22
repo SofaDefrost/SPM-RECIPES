@@ -1,6 +1,6 @@
 {
 	"package_name" : "SofaQtQuick",
-	"package_dependencies" : [],
+	"package_dependencies" : ["SofaPython3"],
 	"package_type" : "source",
 	"ssh-url" : "git@github.com:sofa-framework/SofaQtQuick.git",
 	"http-url" : "https://github.com/sofa-framework/SofaQtQuick.git",
